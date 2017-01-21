@@ -11,6 +11,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             System.Console.WriteLine("hello world");
+            System.Threading.Thread.Sleep(2000);
         }
     }
 }
