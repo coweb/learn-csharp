@@ -1,16 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace TestConsoleApp
+namespace HelloWorld
 {
     class Program
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("hello world");
+            System.Console.WriteLine("Hello World");
             System.Threading.Thread.Sleep(2000);
         }
     }
